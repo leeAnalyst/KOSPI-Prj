@@ -46,3 +46,4 @@
     ```
 
 - 추가하고 커밋한 내역 orgin (git)에 올리기
+  `git push origin master`
