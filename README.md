@@ -18,8 +18,8 @@
 ## 📚 데이터
 | 데이터   | 참고                                     | 출처                          |
 | ------ | -------------------------------------------- | ----------------------------- |
-| KOSPI수집 | 데이콘, 추가예정  | https://dacon.io/competitions/official/235980/overview/description |
-| 종목수집 | 추가예정 |  추가예정  |
+| 참고자료 | 데이콘, 추가예정  | https://dacon.io/competitions/official/235980/overview/description |
+| KOSPI 종목수집 | 한국거래소 KRX | https://data.krx.co.kr/contents/MDC/MDI/mdiLoader/index.cmd?menuId=MDC03020102
 | 뉴스수집 | 네이버 증권 뉴스      | https://finance.naver.com/news/ |
 | 요인분석 | dart 종목별 보고서 | https://dart.fss.or.kr/ |
 
