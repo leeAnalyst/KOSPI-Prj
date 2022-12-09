@@ -35,5 +35,5 @@
 
 ## 📝 구현내용
 
-구현 후 추가 예정
+https://docs.google.com/presentation/d/1-Oe6Td5yJ_bGn_BPbIkHSRtmEWz4lN9p/edit?usp=sharing&ouid=108702566372687303503&rtpof=true&sd=true
 
